@@ -1,0 +1,10 @@
+This directory contains the tasks provided by academor during my internship in the month of May-June 2024.
+
+## Minor Project -- TICTACTOE game
+-- Designed and implemented a classic Tic-Tac-Toe game for two players, focusing on game logic, user interface, and ensuring a seamless player experience.
+-- Players can mark their territory using the position numbers(1-9), once one of the player's territory is aligned in a horiton, vertical or diagonal line then they win. The player keeps on trying to win simultaneously stopping their opposite players
+
+## Major Project -- Loan Predictor 
+-- Engineered a machine learning model to predict loan approval based on various parameters, applying advanced ML techniques to real-world financial data for accurate forecasting.
+-- It takes loanprediction.csv file as input and studies its behaviour and based on the training data it predicts the output for the test data.
+-- Key packages used are train_test_split from sklearn.model_selection, LabelEncoder from sklearn.preprocessing, SimpleImputer from sklearn.impute, RandomForestClassifier from sklearn.ensemble, accuracy_score, confusion_matrix from sklearn.metrics, matplotlib.pyplot, pandas, numpy, seaborntrain_test_split from sklearn.model_selection, OneHotEncoder rom sklearn.preprocessing.
