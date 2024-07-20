@@ -3,9 +3,12 @@ THIS DIRECTORY CONTAINS THE TASKS PROVIDED BY CODEALPHA
 ## FIRST TASK -- OBJECT DETECTION AND TRACKING
 This AI model detects different objects in a video clip provided.
 In the code the input file is traffic-mini.mp4 and it returns a video file output.mp4 after detecting and labelling different objects.
+Packages used are tensorflow, keras, opencv-python, numpy and os.
 
 ## SECOND TASK -- FAQ_CHATBOT
 This chatbot answers frequently asked questions in a job interview.
+Packages used are TfidfVectorizer from sklearn.feature_extraction.text, cosine_similarity from sklearn.metrics.pairwise, numpy and nltk.
 
 ## THIRD TASK -- LANGUAGE TRANSLATOR TOOL
 Provided the text which has to be translated, source language and target language; text can be translated from any language to any language.
+Package used is Translator from googletrans.
