@@ -1,4 +1,4 @@
 THIS DIRECTORY CONTAINS THE TASKS PROVIDED BY CODEALPHA
 
 ## FIRST TASK -- OBJECT DETECTION AND TRACKING
-In this task we detect different things in a video provided such 
+In this task we can detect different objects in a video provided. In my case i have given a file traffic-mini.mp4 file and the output is returned to us as output.mp4 .
