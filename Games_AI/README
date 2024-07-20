@@ -1,0 +1,23 @@
+This directory contains the games coded using python
+
+## TICTACTOE game
+-- Designed and implemented a classic Tic-Tac-Toe game for two players, focusing on game logic, user interface, and ensuring a seamless player experience.
+-- It is a multi-player game
+-- Players can mark their territory using the position numbers(1-9), once one of the player's territory is aligned in a horiton, vertical or diagonal line then they win. The player keeps on trying to win simultaneously stopping their opposite players
+
+## HANGMAN game
+-- It is a single-player game
+-- Players has to guess a word by guessing the letters contained in it within the given number of chances. If the letter guessed by you is correct then the letter is displayed on the appropriate position.
+-- Trick: Try guessing vowels first
+
+## GUESS THE NUMBER
+-- It is a single-player game
+-- Players has to guess a number within the given range using the hints provided within a given number of chances. (Hints such as the number is greater than x or less than y are provided accordingly)
+-- Trick: Try to guess a mid-range number
+
+## GUESS THE NUMBER (COMPUTER VERSION)
+-- It is a single-player game
+-- Players has to choose a number within a specific range and the computer would guess it based on the some of the hints which need to be provided by us. 
+-- It basically uses Binary Search Algorithm to guess the number within the least number of tries.
+
+HAVE FUN PLAYING THESE GAMES !!!
