@@ -1,0 +1,13 @@
+This directory provides information about the AI course project. In this project we have developed a chatbot which performs the following tasks--
+
+## FIRST TASK -- Created an Advanced Chatbot
+Developed a chatbot that retrieves information from Google with additional filters, enabling users to specify queries for professional or personal information, works, etc., for more targeted and relevant results.
+
+## SECOND TASK -- Developed Job Predictor Tool
+Built a predictive model to forecast job outcomes based on various candidate attributes, aiding in career planning and decision-making.
+
+## THIRD TASK -- Engineered Weather Prediction Model
+Created a tool to predict weather conditions using historical data and machine learning algorithms, enhancing accuracy and reliability.
+
+## FOURTH TASK -- Designed Hotel Reservation Predictor
+Implemented a model to forecast hotel reservations, optimizing inventory management and customer satisfaction.
