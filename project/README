@@ -1,13 +1,17 @@
 This directory provides information about the AI course project. In this project we have developed a chatbot which performs the following tasks--
 
 ## FIRST TASK -- Created an Advanced Chatbot
-Developed a chatbot that retrieves information from Google with additional filters, enabling users to specify queries for professional or personal information, works, etc., for more targeted and relevant results.
+-- Developed a chatbot that retrieves information from Google with additional filters, enabling users to specify queries for professional or personal information, works, etc., for more targeted and relevant results.
+-- Major packages used are search from googlesearch, requests, webbrowser, BeautifulSoup from bs4, TfidfVectorizer from sklearn.feature_extraction.text, cosine_similarity from sklearn.metrics.pairwise.
 
 ## SECOND TASK -- Developed Job Predictor Tool
-Built a predictive model to forecast job outcomes based on various candidate attributes, aiding in career planning and decision-making.
+-- Built a predictive model to forecast job outcomes based on various candidate attributes, aiding in career planning and decision-making.
+-- Major packages used are Chat, reflections from nltk.chat.util, StandardScaler, LabelEncoder from sklearn.preprocessing, LogisticRegression, LinearRegression from sklearn.linear_model and pandas.
 
 ## THIRD TASK -- Engineered Weather Prediction Model
-Created a tool to predict weather conditions using historical data and machine learning algorithms, enhancing accuracy and reliability.
+-- Created a tool to predict weather conditions using historical data and machine learning algorithms, enhancing accuracy and reliability.
+-- Major packages used are LabelEncoderfrom sklearn.preprocessing, train_test_split from sklearn.model_selection, KNeighborsClassifier from sklearn.neighbors, SVC from sklearn.svm, GradientBoostingClassifier from sklearn.ensemble, numpy and pandas.
 
 ## FOURTH TASK -- Designed Hotel Reservation Predictor
-Implemented a model to forecast hotel reservations, optimizing inventory management and customer satisfaction.
+-- Implemented a model to forecast hotel reservations, optimizing inventory management and customer satisfaction.
+-- Major packages used are pandas, train_test_split from sklearn.model_selection, StandardScaler from sklearn.preprocessing, LogisticRegression from sklearn.linear_model, accuracy_score from sklearn.metrics.
