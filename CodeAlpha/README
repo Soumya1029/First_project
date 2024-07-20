@@ -1,4 +1,11 @@
 THIS DIRECTORY CONTAINS THE TASKS PROVIDED BY CODEALPHA
 
 ## FIRST TASK -- OBJECT DETECTION AND TRACKING
-In this task we can detect different objects in a video provided. In my case i have given a file traffic-mini.mp4 file and the output is returned to us as output.mp4 .
+This AI model detects different objects in a video clip provided.
+In the code the input file is traffic-mini.mp4 and it returns a video file output.mp4 after detecting and labelling different objects.
+
+## SECOND TASK -- FAQ_CHATBOT
+This chatbot answers frequently asked questions in a job interview.
+
+## THIRD TASK -- LANGUAGE TRANSLATOR TOOL
+Provided the text which has to be translated, source language and target language; text can be translated from any language to any language.
